@@ -31,10 +31,7 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
-  <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" />   
-  <img alt="Express" src="https://img.shields.io/badge/-Express-pink?style=for-the-badge&logo=Express&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
+
 
 </p>
 
