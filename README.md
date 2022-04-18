@@ -27,3 +27,5 @@
 ![alt text](https://camo.githubusercontent.com/5835e461a919ef564746e3e3d1d05b3ddb9f5a0551eb8d7b8101546f0aa991d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6f6e676f5f44422d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f4442266c6f676f436f6c6f723d343338353364 "MongoDB")
 
 
+## Связь со мной: 
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/NikoTaskani)
