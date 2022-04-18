@@ -40,4 +40,4 @@ ____
 
 
 ## CodeWars
-* [[CodeWars](https://www.codewars.com/users/jackcoul/badges/micro)]
+* [![CodeWars](https://www.codewars.com/users/jackcoul/badges/micro)]
