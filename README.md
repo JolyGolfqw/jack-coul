@@ -35,3 +35,20 @@ ____
 
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/JackCoul)
+
+
+***
+
+## Галерея 
+
+
+<p>
+  
+  <img alt="feed" src="https://hhcdn.ru/photo/650556225.png?t=1650359517&h=3dg1x_cK9JfHEAdFTL-Z0A"/>   
+  <img alt="home" src="https://hhcdn.ru/photo/650556469.png?t=1650359517&h=ZBhM5dn6agp56ArPi4JyXQ" />    
+  <img alt="post" src="https://hhcdn.ru/photo/650556549.png?t=1650359517&h=3JOp6PFNgUjO9yaCR8FShA" />   
+  <img alt="home" src="https://hhcdn.ru/photo/650556649.png?t=1650359517&h=oSFX1ltobvWn2FLkBhi7DQ" />   
+  <img alt="hall" src="https://hhcdn.ru/photo/650556673.png?t=1650359517&h=VfFq4YQOLX8N3vQJBjD-Vg" />
+  
+  
+</p>
