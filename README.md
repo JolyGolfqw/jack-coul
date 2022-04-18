@@ -1,15 +1,15 @@
 ## Мои проекты:
 
 * #### Кинотеатр: Где пользователь, может заказывать билеты, не выходя из дома, так же выбрав фильм, зал и сеанс. 
-[client-code](https://github.com/jack-coul/cinema-client)
-[backend-code](https://github.com/jack-coul/backForCinema)
+* [client-code](https://github.com/jack-coul/cinema-client)
+* [backend-code](https://github.com/jack-coul/backForCinema)
 
 ***
 
 * #### Социальная сеть: пользователь может зарегистрироваться, листать ленту, просматривать профили пользователей, писать личные сообщения, писать комментарии, ставить лайки, публиковать посты.
 
-[client-code](https://github.com/jack-coul/social-network)
-[backend-code](https://github.com/jack-coul/backForSocialMedia)
+* [client-code](https://github.com/jack-coul/social-network)
+* [backend-code](https://github.com/jack-coul/backForSocialMedia)
 
 ***
 
